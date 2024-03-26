@@ -1,2 +1,1 @@
-
-# Here I will be publishing a series of projects in Windows Forms, initially for educational reasons.
+## Here I will be publishing a series of projects in Windows Forms, initially for educational reasons.
