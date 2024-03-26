@@ -1,0 +1,29 @@
+C:\Users\LENOVO\Desktop\Clases\Nelson\Visual Basic\Operaciones Matemáticas\Operaciones Matemáticas\bin\Debug\Operaciones Matemáticas.exe.config
+C:\Users\LENOVO\Desktop\Clases\Nelson\Visual Basic\Operaciones Matemáticas\Operaciones Matemáticas\bin\Debug\Operaciones Matemáticas.exe
+C:\Users\LENOVO\Desktop\Clases\Nelson\Visual Basic\Operaciones Matemáticas\Operaciones Matemáticas\bin\Debug\Operaciones Matemáticas.pdb
+C:\Users\LENOVO\Desktop\Clases\Nelson\Visual Basic\Operaciones Matemáticas\Operaciones Matemáticas\obj\Debug\Operaciones Matemáticas.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Clases\Nelson\Visual Basic\Operaciones Matemáticas\Operaciones Matemáticas\obj\Debug\Operaciones_Matemáticas.Form1.resources
+C:\Users\LENOVO\Desktop\Clases\Nelson\Visual Basic\Operaciones Matemáticas\Operaciones Matemáticas\obj\Debug\Operaciones_Matemáticas.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Clases\Nelson\Visual Basic\Operaciones Matemáticas\Operaciones Matemáticas\obj\Debug\Operaciones Matemáticas.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\Clases\Nelson\Visual Basic\Operaciones Matemáticas\Operaciones Matemáticas\obj\Debug\Operaciones Matemáticas.exe
+C:\Users\LENOVO\Desktop\Clases\Nelson\Visual Basic\Operaciones Matemáticas\Operaciones Matemáticas\obj\Debug\Operaciones Matemáticas.pdb
+C:\Users\Keury\Desktop\Clases\ITFAM\5to A\Nelson\Visual Basic\Operaciones Matemáticas\Operaciones Matemáticas\bin\Debug\Operaciones Matemáticas.exe.config
+C:\Users\Keury\Desktop\Clases\ITFAM\5to A\Nelson\Visual Basic\Operaciones Matemáticas\Operaciones Matemáticas\bin\Debug\Operaciones Matemáticas.exe
+C:\Users\Keury\Desktop\Clases\ITFAM\5to A\Nelson\Visual Basic\Operaciones Matemáticas\Operaciones Matemáticas\bin\Debug\Operaciones Matemáticas.pdb
+C:\Users\Keury\Desktop\Clases\ITFAM\5to A\Nelson\Visual Basic\Operaciones Matemáticas\Operaciones Matemáticas\obj\Debug\Operaciones Matemáticas.csproj.AssemblyReference.cache
+C:\Users\Keury\Desktop\Clases\ITFAM\5to A\Nelson\Visual Basic\Operaciones Matemáticas\Operaciones Matemáticas\obj\Debug\Operaciones_Matemáticas.Form1.resources
+C:\Users\Keury\Desktop\Clases\ITFAM\5to A\Nelson\Visual Basic\Operaciones Matemáticas\Operaciones Matemáticas\obj\Debug\Operaciones_Matemáticas.Properties.Resources.resources
+C:\Users\Keury\Desktop\Clases\ITFAM\5to A\Nelson\Visual Basic\Operaciones Matemáticas\Operaciones Matemáticas\obj\Debug\Operaciones Matemáticas.csproj.GenerateResource.cache
+C:\Users\Keury\Desktop\Clases\ITFAM\5to A\Nelson\Visual Basic\Operaciones Matemáticas\Operaciones Matemáticas\obj\Debug\Operaciones Matemáticas.csproj.CoreCompileInputs.cache
+C:\Users\Keury\Desktop\Clases\ITFAM\5to A\Nelson\Visual Basic\Operaciones Matemáticas\Operaciones Matemáticas\obj\Debug\Operaciones Matemáticas.exe
+C:\Users\Keury\Desktop\Clases\ITFAM\5to A\Nelson\Visual Basic\Operaciones Matemáticas\Operaciones Matemáticas\obj\Debug\Operaciones Matemáticas.pdb
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Visual 2022\Calculadora Basica\Operaciones Matemáticas\bin\Debug\Operaciones Matemáticas.exe.config
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Visual 2022\Calculadora Basica\Operaciones Matemáticas\bin\Debug\Operaciones Matemáticas.exe
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Visual 2022\Calculadora Basica\Operaciones Matemáticas\bin\Debug\Operaciones Matemáticas.pdb
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Visual 2022\Calculadora Basica\Operaciones Matemáticas\obj\Debug\Operaciones Matemáticas.csproj.AssemblyReference.cache
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Visual 2022\Calculadora Basica\Operaciones Matemáticas\obj\Debug\Operaciones_Matemáticas.Form1.resources
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Visual 2022\Calculadora Basica\Operaciones Matemáticas\obj\Debug\Operaciones_Matemáticas.Properties.Resources.resources
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Visual 2022\Calculadora Basica\Operaciones Matemáticas\obj\Debug\Operaciones Matemáticas.csproj.GenerateResource.cache
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Visual 2022\Calculadora Basica\Operaciones Matemáticas\obj\Debug\Operaciones Matemáticas.csproj.CoreCompileInputs.cache
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Visual 2022\Calculadora Basica\Operaciones Matemáticas\obj\Debug\Operaciones Matemáticas.exe
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Visual 2022\Calculadora Basica\Operaciones Matemáticas\obj\Debug\Operaciones Matemáticas.pdb
